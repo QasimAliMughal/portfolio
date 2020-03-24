@@ -137,7 +137,9 @@ width: 50px;
     display: inline-block;
     margin-left: 30px;
 }
-
+.skills-sections{
+    margin-top: 45px;
+}
 
 /* ID Section */
 #programmer-image{
