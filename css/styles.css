@@ -93,6 +93,7 @@ h3{
     right: 6px;
 }
 
+
 .skills-content img{
     width: 100px;
 }
@@ -113,8 +114,6 @@ h3{
 }
 footer .footer-section{
     margin-top: 30px;
-    width: 100%;
-    height: 150px;
     background-color: #204051;
 }
 
@@ -127,8 +126,8 @@ footer .footer-section p{
     top: 30px;
 }
 
-.social-media-link{
-    padding: 7% 7%;
+.social-media-links{
+    padding: 3% 3%;
 }
 
 .social-media-links img{
