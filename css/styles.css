@@ -127,6 +127,10 @@ footer .footer-section p{
     top: 30px;
 }
 
+.social-media-link{
+    padding: 7% 7%;
+}
+
 .social-media-links img{
 width: 50px;
 }
