@@ -17,8 +17,9 @@ hr{
 
 }
 h3{
-    font-family: "Sacramento",Arial, Helvetica, sans-serif;
-    font-size: 40px;
+    font-family: "Ubuntu",Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 400px;
 }
 
 
@@ -85,6 +86,8 @@ h3{
     width: 500px;
     margin: 0 auto;
     top: 20px;
+    font-family: 'Montserrat',sans-serif;
+    line-height: 2;
 }
 
 .contact-me-floating-button{
@@ -164,6 +167,10 @@ width: 50px;
     width: 100px;
     
     
+}
+
+.fab-cs{
+    color: white;
 }
 
 
